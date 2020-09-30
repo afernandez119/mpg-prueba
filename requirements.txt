@@ -1,0 +1,7 @@
+pickle
+flask
+model_files
+model_files.ml_model
+pandas
+numpy
+sklearn
