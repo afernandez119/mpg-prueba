@@ -9,4 +9,4 @@ Created on Tue Sep 29 17:55:24 2020
 from main import app
 
 if __name__ == '__main__': 
-    app.run(False)
+    app.run()
